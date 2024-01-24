@@ -14,7 +14,7 @@ To minimize and avoid the unnecessary complicate of tracking transaction, Spoof 
 
 # Quick Start
   - open your terminal and `gitclone https://github.com/casualprogram/spoof-bot-Telegram-Crypto-monitor`
-  - download all the requirement packages by `pip install -r requirements.txt`
+  - download all the requirement packages by `py pip install -r requirements.txt`
   - change *env.text* file name to *.env* and insert your Alchemy API, Telegram Bot-token and TelegramChatID, Etherscan API as well as BscScan API.
   - start your bot `py main.py` and enjoy
 
