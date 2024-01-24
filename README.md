@@ -22,9 +22,9 @@ To minimize and avoid the unnecessary complicate of tracking transaction, Spoof 
   - Use */start* in your telegram chat box for all the command.
 
 # What's next? 
-  [] Increase monitoring speed
-  [] Filtering and detecting scams/spam transactions activity
-  [] Read smart-contract and summarize, predict the impact
-  [] Sending alerts
-  [] Discord implementation
-  [] ...more to come :)
+  - [] Increase monitoring speed
+  - [] Filtering and detecting scams/spam transactions activity
+  - [] Read smart-contract and summarize, predict the impact
+  - [] Sending alerts
+  - [] Discord implementation
+  - [] ...more to come :)
